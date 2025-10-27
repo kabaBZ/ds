@@ -1,0 +1,4 @@
+BTC
+HOLD
+88%
+QUANTITY: 1.96
